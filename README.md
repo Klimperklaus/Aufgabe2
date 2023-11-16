@@ -1,4 +1,4 @@
-Mark, 26 Jahre# Aufgabe2
+# Aufgabe2
 
 ## Meine Bio:
 
