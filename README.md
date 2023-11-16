@@ -1,4 +1,4 @@
-# Aufgabe2
+Mark, 26 Jahre# Aufgabe2
 
 ## Meine Bio:
 
@@ -12,3 +12,10 @@
 - 34
 - Burg
 - Deutsch
+
+## Meine Bio
+- Mark
+- 26 
+- Blau und Grün
+- Englisch, Spanisch, Deutsch
+- La Bottega Da Franco
